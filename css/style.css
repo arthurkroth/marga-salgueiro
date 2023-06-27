@@ -1,0 +1,41 @@
+        /* Custom CSS */
+        body {
+            background-color: #f8f8f8;
+        }
+
+        .logo {
+            max-width: 150px;
+            margin: 20px auto;
+        }
+
+        .store-info {
+            background-color: #fff;
+            padding: 50px;
+            text-align: center;
+        }
+
+        .store-info h2 {
+            font-size: 36px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .store-info p {
+            margin-bottom: 20px;
+        }
+
+        .store-info .social-links a {
+            font-size: 24px;
+            margin: 0 10px;
+            color: #000;
+        }
+
+        .map-container {
+            margin-top: 50px;
+        }
+
+        .footer {
+            padding: 20px;
+            background-color: #f8f8f8;
+            text-align: center;
+        }
